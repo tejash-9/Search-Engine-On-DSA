@@ -1,0 +1,1 @@
+b'Given a 2D binary matrix filled with 0\xe2\x80\x99s and 1\xe2\x80\x99s, find the largest rectangle containing all ones and return its area.\nBonus if you can solve it in O(n^2) or less.\nExample :\nA : [  1 1 1\n       0 1 1\n       1 0 0 \n    ]\n\nOutput : 4 \n\nAs the max area rectangle is created by the 2x2 rectangle created by (0,1), (0,2), (1,1) and (1,2)\n\n\n\n'

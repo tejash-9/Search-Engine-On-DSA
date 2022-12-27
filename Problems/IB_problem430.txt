@@ -1,0 +1,1 @@
+b'Given a sentence represented as an array A of strings.Chech if it is a pangram or not.A pangram is a unique sentence in which every letter of the alphabet is used at least once.'

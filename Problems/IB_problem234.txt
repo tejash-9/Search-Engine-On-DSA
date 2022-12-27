@@ -1,0 +1,1 @@
+b'Given a binary search tree, write a function to find the kth smallest element in the tree.\nExample :\nInput : \n  2\n / \\\n1   3\n\nand k = 2\n\nReturn : 2\n\nAs 2 is the second smallest element in the tree.\n\n\n\nNOTE : You may assume 1 <= k <= Total number of nodes in BST\n\n'

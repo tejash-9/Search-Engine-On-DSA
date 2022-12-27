@@ -1,0 +1,1 @@
+b'Given an integer A you need to find the Ath fibonacci number modulo 109 + 7.\nThe first fibonacci number F1 = 1\nThe first fibonacci number F2 = 1\nThe nth fibonacci number Fn = Fn-1 + Fn-2 (n > 2)'

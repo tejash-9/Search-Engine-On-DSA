@@ -1,0 +1,1 @@
+b'Given two integers A and B, where A is the first element of the sequence then find Bth element of the sequence.If the kth element of the sequence is X then k+1th element calculated as:\n\nif X is even then next element is X/2.\nelse next element is 3\xc3\x97X + 1.\n'

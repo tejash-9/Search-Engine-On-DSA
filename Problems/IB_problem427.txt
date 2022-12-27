@@ -1,0 +1,1 @@
+b'Given a string A which represents a time in 24 hour HH:MM format.Find the minimum number of minutes need to pass to reach palindromic time.Let some time be XY:ZW then it is palindromic if X == W and Y == Z.'

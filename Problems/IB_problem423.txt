@@ -1,0 +1,1 @@
+b'Given a string A. Change the cases of all the characters.If the character is lowercase convert it to uppercase and if the character is uppercase convert it to lowercase.Note: All the characters in the string are latin uppercase or lowercase letters.'

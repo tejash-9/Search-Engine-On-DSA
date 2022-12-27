@@ -1,0 +1,1 @@
+b'Given a binary array A and a number B, we need to find length of the longest subsegment of \xe2\x80\x981\xe2\x80\x99s possible by changing at most B \xe2\x80\x980\xe2\x80\x99s.'

@@ -1,0 +1,1 @@
+b'Given a linked list A of length N and an integer B.\nYou need to find the value of the Bth node from the middle towards the beginning of the Linked List A.\nIf no such element exists, then return -1.\nNOTE:\n\nPosition of middle node is: (N/2)+1, where N is the total number of nodes in the list.\n\n'

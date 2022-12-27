@@ -1,0 +1,1 @@
+b'Given an array of integers A of size N in which ith element is the price of the stock on day i.\nYou can complete atmost B transactions.\nFind the maximum profit you can achieve.\nNOTE: You may not engage in multiple transactions at the same time (ie, you must sell the stock before you buy again).\n'

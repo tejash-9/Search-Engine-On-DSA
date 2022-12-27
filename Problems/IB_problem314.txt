@@ -1,0 +1,1 @@
+b'Given a stream of numbers A. On arrival of each number, you need to increase its first occurence by 1 and include this in the stream.\nReturn the final stream of numbers.\n'

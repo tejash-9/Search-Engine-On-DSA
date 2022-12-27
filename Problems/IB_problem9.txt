@@ -1,0 +1,1 @@
+b'Find the contiguous subarray within an array (containing at least one number) which has the largest product.\nReturn an integer corresponding to the maximum product possible.\nExample :\nInput : [2, 3, -2, 4]\nReturn : 6 \n\nPossible with [2, 3]\n\n\n'

@@ -1,0 +1,1 @@
+b'Given a string A containing only lowercase characters.Find the frequencies of the characters in order of their occurrence.'

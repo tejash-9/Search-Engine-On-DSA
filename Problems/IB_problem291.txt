@@ -1,0 +1,1 @@
+b'Given an integer A find the Ath number whose binary representation is a palindrome.\nNOTE:\n\n Consider the 1st number whose binary representation is palindrome as 1, instead of 0\n Do not consider the leading zeros, while considering the binary representation.\n\n\n\n\n\n\n\n'

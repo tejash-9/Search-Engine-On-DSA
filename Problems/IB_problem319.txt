@@ -1,0 +1,1 @@
+b'Given an array A containing N integers.\nYou need to find the maximum sum of triplet ( Ai + Aj + Ak ) such that 0 <= i < j < k < N and Ai < Aj < Ak.\nIf no such triplet exist return 0.\n\n\n'

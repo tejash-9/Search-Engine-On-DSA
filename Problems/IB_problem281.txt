@@ -1,0 +1,1 @@
+b'Given a 2D integer array A of size  N * N   representing a triangle of numbers.\nFind the maximum path sum from top to bottom. Each step you may move to adjacent numbers on the row below.\nNOTE:\n\n Adjacent cells to cell (i,j) are only (i+1,j) and (i+1,j+1)\n Row i contains i integer and n-i zeroes for all i in [1,n] where zeroes represents empty cells.\n\n'

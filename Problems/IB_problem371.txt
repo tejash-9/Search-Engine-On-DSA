@@ -1,0 +1,1 @@
+b'You are given the root of a binary tree A.\nYou have to find the vertical sum of the tree.\nA vertical sum denotes an array of sum of the different verticals of a binary tree,\nwhere the leftmost vertical sum is the first element of the array and rightmost vertical is the last.'

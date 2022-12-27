@@ -1,0 +1,1 @@
+b'You are given A dices with faces numbered from 1 to B.\nYou have to find out the number of ways to get to sum C.\nSince, the number can be large, output the answer modulo 109 + 7.'

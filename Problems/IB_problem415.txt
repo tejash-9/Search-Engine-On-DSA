@@ -1,0 +1,1 @@
+b"Given a string A consisting of only characters 'a' and 'b'.Divide the string into substrings of length B.Find the subtring with maximum count of 'a' and return the count.Note: If the length of the string is not a multiple of B and there are some characters left in the end consider them also as a substring."

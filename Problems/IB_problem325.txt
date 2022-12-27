@@ -1,0 +1,1 @@
+b'Given an array of integers A and an integer B.\nFind the total number of subarrays having bitwise XOR of all elements equals to B.\n\n'

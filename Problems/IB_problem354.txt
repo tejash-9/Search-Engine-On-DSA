@@ -1,0 +1,1 @@
+b"Given an integer array A of size N containing 0's and 1's only.\n\xc2\xa0\n\xc2\xa0\n\xc2\xa0\n\xc2\xa0\nYou need to find the length of the longest subarray having count of 1\xe2\x80\x99s\xc2\xa0one more than count of 0\xe2\x80\x99s.\n\xc2\xa0\n\xc2\xa0\nNote: In the subarray count of 1's should be one more than the count of 0's.\n\xc2\xa0"

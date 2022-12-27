@@ -1,0 +1,1 @@
+b'Given a string A, find the common palindromic sequence ( A sequence which does not need to be contiguous and is a pallindrome), which is common in itself.\nYou need to return the length of longest palindromic subsequence in A.\nNOTE:\nYour code will be run on multiple test cases (<=10). Try to come up with an optimised solution.'

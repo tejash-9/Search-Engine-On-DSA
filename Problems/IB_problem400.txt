@@ -1,0 +1,1 @@
+b'Given a range [A, B], find sum of integers divisible by 7 in this range.'

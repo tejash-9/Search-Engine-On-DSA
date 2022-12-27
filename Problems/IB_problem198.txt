@@ -1,0 +1,1 @@
+b'Given 2 non negative integers m and n, find gcd(m, n)\nGCD of 2 integers m and n is defined as the greatest integer g such that g is a divisor of both m and n.\nBoth m and n fit in a 32 bit signed integer.\nExample\nm : 6\nn : 9\n\nGCD(m, n) : 3 \n\n\n\nNOTE : DO NOT USE LIBRARY FUNCTIONS\n\n'

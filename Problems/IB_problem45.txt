@@ -1,0 +1,1 @@
+b"Given an array of integers A .\nA represents a histogram i.e A[i] denotes height of the ith histogram's bar. Width of each bar is 1.\nFind the area of the largest rectangle formed by the histogram.\n\n\n\n\n"

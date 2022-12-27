@@ -1,0 +1,1 @@
+b'Given a string A consisting of only lowercase English letters. Return the number of substrings of A which are palindrome.'

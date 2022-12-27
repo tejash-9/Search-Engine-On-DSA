@@ -1,0 +1,1 @@
+b"Given an integer A.Find the product of all of it's digits."

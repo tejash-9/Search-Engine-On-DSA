@@ -1,0 +1,1 @@
+b'Given a collection of intervals, merge all overlapping intervals.\nFor example:\nGiven [1,3],[2,6],[8,10],[15,18],\nreturn [1,6],[8,10],[15,18].\nMake sure the returned intervals are sorted.\n'

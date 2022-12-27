@@ -1,0 +1,1 @@
+b'Given a positive integer A, the task is to count the total number of set bits in the binary representation of all the numbers from 1 to A.\nReturn the count modulo 109 + 7.\n\n\n\n\n\n'

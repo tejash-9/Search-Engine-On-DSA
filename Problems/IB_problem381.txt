@@ -1,0 +1,1 @@
+b'You are given the root of a binary tree A, you need to return the absolute difference between sum of all covered elements and the sum of all uncovered elements.\nIn a binary tree, a node is called Uncovered if it appears either on left boundary or right boundary. Rest of the nodes are called covered.'

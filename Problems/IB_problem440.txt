@@ -1,0 +1,1 @@
+b"Given two integers A and B which represent an integer range [A, B].Find the\xc2\xa0maximum number of distinct palindromic integers we can take from the given range, such that the absolute difference between any two integers doesn't exceed C."

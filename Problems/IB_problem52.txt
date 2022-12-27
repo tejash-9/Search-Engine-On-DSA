@@ -1,0 +1,1 @@
+b'Given a read only array of n + 1 integers between 1 and n, find one number that repeats in linear time using less than O(n) space and traversing the stream sequentially O(1) times.\nSample Input:\n\n[3 4 1 4 1]\n\nSample Output:\n\n1\n\nIf there are multiple possible answers ( like in the sample case above ), output any one.\nIf there is no duplicate, output -1'

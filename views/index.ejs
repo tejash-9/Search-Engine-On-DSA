@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>CODEMON</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <h1>Welcome To CodeMon </h1>
+    <form>
+       
+        <i class="fa fa-search" aria-hidden="true"></i>
+      <input type="text" placeholder="YOUR QUESTION" name="question" id="question" />
+      <br>
+      <input id="search" type="submit"  value="SEARCH"/>
+
+    </form>
+    <br>
+    <div class="loading"></div>
+
+    <div class="question">
+      <div class="title"></div>
+      <div class="url">
+        <a class="myAnchor" href=""></a>
+      </div>
+      <div class="body"></div>
+    </div>
+    <div class="question">
+      <div class="title"></div>
+      <div class="url">
+        <a class="myAnchor" href=""></a>
+      </div>
+      <div class="body"></div>
+    </div>
+    <div class="question">
+      <div class="title"></div>
+      <div class="url">
+        <a class="myAnchor" href=""></a>
+      </div>
+      <div class="body"></div>
+    </div>
+    <div class="question">
+      <div class="title"></div>
+      <div class="url">
+        <a class="myAnchor" href=""></a>
+      </div>
+      <div class="body"></div>
+    </div>
+    <div class="question">
+      <div class="title"></div>
+      <div class="url">
+        <a class="myAnchor" href=""></a>
+      </div>
+      <div class="body"></div>
+    </div>
+  </body>
+</html>
+
+<script>
+  const form = document.querySelector("form");
+  const questionElement = form.question;
+
+  const questions = document.querySelectorAll(".question");
+  const titles = document.querySelectorAll(".title");
+  const urls = document.querySelectorAll(".url");
+  const quesBody = document.querySelectorAll(".body");
+  const loadingDiv = document.querySelector(".loading");
+  // const links=document.querySelectorAll("a.myAnchor");
+
+
+
+  form.addEventListener("submit", async (e) => {
+    e.preventDefault();
+    const question = questionElement.value;
+    for (let i = 0; i < 5; i++) {
+      titles[i].innerHTML = ``;
+      urls[i].innerHTML = ``;
+    }
+    
+    loadingDiv.innerHTML = `Please wait, we are searching for your question...it will take some time...`;
+    //fetch
+
+    try {
+      const res = await fetch(`/search?question=${question}`, {
+        method: "GET",
+      });
+      const data = await res.json();
+      
+      loadingDiv.innerHTML = ``;
+      for (let i = 0; i < 5; i++) {
+        titles[i].innerHTML = `<h5>${data[i].title}</h5>`;
+        urls[i].innerHTML = `<h5>${data[i].url}</h5>`;
+     
+      }
+    } catch (error) {
+      alert(error);
+    }
+  });
+</script>

@@ -1,0 +1,1 @@
+b'Given an integer array A of length N. Where Ai is the cost of stepping on the ith stair.From ith stair, you can go to i+1th or i+2th numbered stair.Initially, you are at 1st stair find the minimum cost to reach Nth stair.'

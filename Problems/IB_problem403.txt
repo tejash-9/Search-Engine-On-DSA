@@ -1,0 +1,1 @@
+b'Given two integers A and B. Find the number of sequences of length B, such that every element of this sequence is an positive integer and is less than of equal to A, also every previous element in the sequence is less than or equal to half of the next element.'

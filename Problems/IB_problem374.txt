@@ -1,0 +1,1 @@
+b' Given a string A with lowercase english alphabets and you have to return a string in which, with each character its frequency is written in adjacent.\n'

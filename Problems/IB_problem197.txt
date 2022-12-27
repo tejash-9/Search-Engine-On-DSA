@@ -1,0 +1,1 @@
+b'Rearrange a given array so that Arr[i] becomes Arr[Arr[i]] with O(1) extra space.\nExample:\nInput : [1, 0]\nReturn : [0, 1]\n\n\n\nLets say N = size of the array. Then, following holds true :\n\nAll elements in the array are in the range [0, N-1]\nN * N does not overflow for a signed integer\n\n\n'

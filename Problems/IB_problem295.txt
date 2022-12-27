@@ -1,0 +1,1 @@
+b'Given a string A consisting only of lowercase characters, we need to check whether it is possible to make this string a palindrome after removing exactly one character from this.\nIf it is possible then return 1 else return 0.\n\n\n\n'

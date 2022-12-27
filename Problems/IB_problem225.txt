@@ -1,0 +1,1 @@
+b"Given a string, find the rank of the string amongst its permutations sorted lexicographically. \nAssume that no characters are repeated.\nExample :\nInput : 'acb'\nOutput : 2\n\nThe order permutations with letters 'a', 'c', and 'b' : \nabc\nacb\nbac\nbca\ncab\ncba\n\n\nThe answer might not fit in an integer, so return your answer % 1000003\n"

@@ -1,0 +1,1 @@
+b'Given an integer A you have to find the number of ways to fill a 3 x A board with 2 x 1 dominoes.\nReturn the answer modulo 109 + 7 .\nNOTE:\n\n\n\n\nSee the sample explanation for better understanding.\n\n'

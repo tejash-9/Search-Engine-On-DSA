@@ -1,0 +1,1 @@
+b'You rolled a dice K times and got a sum of A after summing all the values you got after a roll.Find the number of ways you could have got a sum of A after rolling K times, since this value can be very large return modulo 109+7.'

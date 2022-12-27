@@ -1,0 +1,1 @@
+b'Given an inorder traversal of a cartesian tree, construct the tree.\n\nCartesian tree :  is a heap ordered binary tree, where the root is greater than all the elements in the subtree.\n\n\nNote: You may assume that duplicates do not exist in the tree.\n\nExample :\nInput : [1 2 3]\n\nReturn :   \n          3\n         /\n        2\n       /\n      1\n\n\n'

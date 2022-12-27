@@ -1,0 +1,1 @@
+b'Given an integer A.Write binary representation of the integer without leading zeros.Flip all bits then return the integer value of the binary number formed.Flipping means 0 -> 1 and 1 -> 0.'

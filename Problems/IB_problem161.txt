@@ -1,0 +1,1 @@
+b"Given a 2D character matrix A of size N x M, containing 'X' and 'O', capture all regions surrounded by 'X'.\nA region is captured by flipping all 'O's into 'X's in that surrounded region.\n\n"

@@ -1,0 +1,1 @@
+b'Given an integer array A  of size N.\nYou are also given an integer B, you need to find whether their exist a subset in A whose sum equal B.\nIf there exist a subset then return 1 else return 0.\n'

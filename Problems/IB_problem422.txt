@@ -1,0 +1,1 @@
+b'Given an integer A which represents a month.Find the season according to the month.\n\nSpring \xe2\x80\x93 March to May\nSummer \xe2\x80\x93 June to August\nAutumn \xe2\x80\x93 September to November\nWinter \xe2\x80\x93 December to February\n\nIf the month is out of the range 1 to 12 output should be \xe2\x80\x9cInvalid\xe2\x80\x9d.'

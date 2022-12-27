@@ -1,0 +1,1 @@
+b'Given a number N, verify if N is prime or not.\nReturn 1 if N is prime, else return 0.\nExample :\nInput : 7\nOutput : True\n\n\nProblem Approach:\nVIDEO : https://www.youtube.com/watch?v=7VPA-HjjUmU\nComplete code in the hint.\n'

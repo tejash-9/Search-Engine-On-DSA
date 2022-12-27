@@ -1,0 +1,1 @@
+b'Given an integer A.Swap the Bth and Cth bit from right in binary representation of A.Return the integer formed.'

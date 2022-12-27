@@ -1,0 +1,1 @@
+b'Given a graph of A nodes. Also given the weighted edges in the form of array B.\nYou are also given starting point C and destination point D.\nAlso given are some extra edges in the form of vector E.\nYou need to find the length of the shortest path from C to D if you can use maximum one road from the given roads in E.\nAll roads are bidirectional.\n\n\n\n'

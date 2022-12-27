@@ -1,0 +1,1 @@
+b'Given an array of size n, find the majority element. The majority element is the element that appears more than floor(n/2) times.\nYou may assume that the array is non-empty and the majority element always exist in the array.\nExample :\nInput : [2, 1, 2]\nReturn  : 2 which occurs 2 times which is greater than 3/2.\n\n\n\n\n'

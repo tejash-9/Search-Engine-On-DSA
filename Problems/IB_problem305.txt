@@ -1,0 +1,1 @@
+b"Given a 2D binary matrix A of size  N x M  find the area of maximum size square sub-matrix with all 1's."

@@ -1,0 +1,1 @@
+b'Given a number A. Find the fatorial of the number.'

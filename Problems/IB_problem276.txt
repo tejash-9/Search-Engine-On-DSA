@@ -1,0 +1,1 @@
+b'Given an 2D integer array A of size N x 2 denoting time intervals of different meetings.\nWhere:\nA[i][0] = start time of the ith meeting.\nA[i][1] = end time of the ith meeting.\nFind the minimum number of conference rooms required so that all meetings can be done.\n'

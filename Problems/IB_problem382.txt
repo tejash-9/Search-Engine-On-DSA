@@ -1,0 +1,1 @@
+b'You are given two strings A and B.\nCheck whether there exists any permutation of both A and B such that they are equal.\nReturn a single integer 1 if its exists, 0 otherwise.'

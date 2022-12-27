@@ -1,0 +1,1 @@
+b'Given a tree with N nodes numbered from 1 to N.\nEach edge is bi-directional and has a certain weight assigned to it.\nYou are given Q queries, in each query you are given two integers u and v and you are required to find the maximum weighted edge in a simple path from u to v.\nYou have to return the weight of the edge for each queries.'

@@ -1,0 +1,1 @@
+b'There are certain questions where the interviewer would intentionally frame the question vague.\nThe expectation is that you will ask the correct set of clarifications or state your assumptions before you jump into coding.\n'

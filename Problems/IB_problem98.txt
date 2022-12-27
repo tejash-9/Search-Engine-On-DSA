@@ -1,0 +1,1 @@
+b'Given n pairs of parentheses, write a function to generate all combinations of well-formed parentheses of length 2*n.\nFor example, given n = 3, a solution set is:\n"((()))", "(()())", "(())()", "()(())", "()()()"\n\n\nMake sure the returned list of strings are sorted.\n'

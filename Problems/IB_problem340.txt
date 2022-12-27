@@ -1,0 +1,1 @@
+b'Given a target A on an infinite number line, i.e. -infinity to +infinity.\nYou are currently at position 0 and you need to reach the target by moving according to the below rule:\nIn ith move you can take i steps forward or backward.\nFind the minimum number of moves required to reach the target.\n'

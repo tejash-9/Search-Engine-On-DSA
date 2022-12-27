@@ -1,0 +1,1 @@
+b'Given n points on a 2D plane, find the maximum number of points that lie on the same straight line.\nSample Input :\n(1, 1)\n(2, 2)\n\n\nSample Output :\n2\n\n\nYou will be given 2 arrays X and Y. Each point is represented by (X[i], Y[i])\n'

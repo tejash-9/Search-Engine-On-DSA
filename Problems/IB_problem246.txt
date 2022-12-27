@@ -1,0 +1,1 @@
+b'Hamming distance between two non-negative integers is defined as the number of positions at which the corresponding bits are different.\nGiven an array A of N non-negative integers, find the sum of hamming distances of all pairs of integers in the array. Return the answer modulo 1000000007.'

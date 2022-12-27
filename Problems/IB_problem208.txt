@@ -1,0 +1,1 @@
+b'Given a string A, find length of the longest repeating sub-sequence such that the two subsequence don\xe2\x80\x99t have same string character at same position,\ni.e., any i\xe2\x80\x99th character in the two subsequences shouldn\xe2\x80\x99t have the same index in the original string.\nNOTE: Sub-sequence length should be greater than or equal to 2.'

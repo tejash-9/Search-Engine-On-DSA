@@ -1,0 +1,1 @@
+b'A chips factory is packing chips in packets.The packets of chips are represented as an array A.Find the packet of chips which are empty (Ai = 0) and move them to the end of the array.Return the resultant array.'

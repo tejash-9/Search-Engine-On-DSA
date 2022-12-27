@@ -1,0 +1,1 @@
+b"There is a party at Ram's house, he will be inviting A friends to his party.There is round table at his house which has A+1 seats.Among all those friends Shyam is Ram's best friend and Ram wants to sit with him.Find the number of ways to sit such that Ram and Shayam will sit together.Since this number can be very large take modulo 109 + 7."

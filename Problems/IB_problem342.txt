@@ -1,0 +1,1 @@
+b'A items are to be delivered in a circle of size B.\nFind the position where the Ath item will be delivered if we start from a given position C.\nNOTE: Items are distributed at adjacent positions starting from C.'

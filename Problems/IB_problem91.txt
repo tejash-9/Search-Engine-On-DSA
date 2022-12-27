@@ -1,0 +1,1 @@
+b'Identify the next number in the sequence\n31, 28, 31, 30, __?\n\n\n\nAnswer is a integer.  Just put the number without any decimal places if its an integer. If the answer is Infinity, output Infinity.\nFeel free to get in touch with us if you have any questions\n\n'

@@ -1,0 +1,1 @@
+b'Given a set of N intervals denoted by 2D array A of size N x 2, the task is to find the length of maximal set of mutually disjoint intervals.\nTwo intervals [x, y] & [p, q] are said to be disjoint if they do not have any point in common.\nReturn a integer denoting the length of maximal set of mutually disjoint intervals.\n\n'

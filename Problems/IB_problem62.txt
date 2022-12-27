@@ -1,0 +1,1 @@
+b"You're given a read only array of n integers. Find out if any integer occurs more than n/3 times in the array in linear time and constant additional space.\nIf so, return the integer. If not, return -1.\nIf there are multiple solutions, return any one.\nExample:\nInput: [1 2 3 1 1]\nOutput: 1 \n1 occurs 3 times which is more than 5/3 times.\n\n"

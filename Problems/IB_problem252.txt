@@ -1,0 +1,1 @@
+b'GIven three prime numbers A, B and C and an integer D.\nYou need to find the first(smallest) D integers which only have A, B, C or a combination of them as their prime factors.\n\n\n'

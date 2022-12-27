@@ -1,0 +1,1 @@
+b'Given an integer array A of size N.\nYou need to check that whether there exist a element which is strictly greater than all the elements on left of it and strictly smaller than all the elements on right of it.\nIf it exists return 1 else return 0.\nNOTE:\n\n\n\nDo not consider the corner elements i.e A[0] and A[N-1] as the answer.'

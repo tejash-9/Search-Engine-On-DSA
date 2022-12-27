@@ -1,0 +1,1 @@
+b'Given a numeric string A representing a large number you need to find the next smallest palindrome greater than this number.'

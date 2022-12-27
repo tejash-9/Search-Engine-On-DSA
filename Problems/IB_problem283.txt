@@ -1,0 +1,1 @@
+b'Given a linked list A of length N and an integer B.\nYou need to reverse every alternate B nodes in the linked list A.\n\n\n\n\n'

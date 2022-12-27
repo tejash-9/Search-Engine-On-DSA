@@ -1,0 +1,1 @@
+b'Given a large number represent in the form of an integer array A, where each element is a digit.\nYou have to find whether there exists any permutation of the array A such that the number becomes divisible by 60.\nReturn 1 if it exists, 0 otherwise.'

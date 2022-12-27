@@ -1,0 +1,1 @@
+b'Given an integer A.\nCompute and return the square root of A.\nIf A is not a perfect square, return floor(sqrt(A)).\nDO NOT USE SQRT FUNCTION FROM STANDARD LIBRARY.\nNOTE: Do not use sort function from standard library. Users are expected to solve this in O(log(A)) time.\n\n\n\n\n\n\n\n\n'

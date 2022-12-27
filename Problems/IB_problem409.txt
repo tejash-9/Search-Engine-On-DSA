@@ -1,0 +1,1 @@
+b'Given an integer array A.Create an array B such that Bi is the product of all elements of A excluding Ai.Since the products can be too large take modulo 109 +7.'

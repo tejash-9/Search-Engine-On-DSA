@@ -1,0 +1,1 @@
+b'You are given a 2D string array A of dimensions N x 2,\nwhere each row consists of two strings: first is the name of the student, second is their marks.\nYou have to find the maximum average mark. If it is a floating point, round it down to the nearest integer less than or equal to the number.'

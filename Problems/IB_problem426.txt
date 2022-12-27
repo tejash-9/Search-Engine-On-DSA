@@ -1,0 +1,1 @@
+b'You want buy A candies, there are two candy strores in your town.The stores sell candies in packets, first store sells B candies for C rupees and the other store sells D candies for E rupees.Find minimum cost to buy exactly A candies if you can buy any amout of packets from both the stores.If it is not possible to do so return -1.'

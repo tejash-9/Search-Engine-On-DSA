@@ -1,0 +1,1 @@
+b'Given a sentence as a string A.Return the number of palindromic words in the sentence.'

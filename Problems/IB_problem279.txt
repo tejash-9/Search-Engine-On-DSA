@@ -1,0 +1,1 @@
+b'Consider lines of slope -1 passing between nodes.\nGiven a Binary Tree A containing N nodes, return all diagonal elements in a binary tree belonging to same line.\nNOTE:\n\nSee Sample Explanation for better understanding.\nOrder does matter in the output.\nTo get the same order as in the output traverse the tree same as we do in pre-order traversal.\n\n\n\n\n\n'

@@ -1,0 +1,1 @@
+b'A Bear has fallen from a height of 10m from ground. It reached ground in sqrt(2) seconds. Luckily it didn\xe2\x80\x99t get hurt. What color is the bear?\n\nJust output the color. For example, following are acceptable answers.\n\nWhite\nBlack\nPink\nBrown\nYellow\nRed\nBlue\nGreen\n\n\n'

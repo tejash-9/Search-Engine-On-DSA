@@ -1,0 +1,1 @@
+b'Given an array A of integers and another non negative integer k, find if there exists 2 indices i and j such that A[i] - A[j] = k, i != j.\nExample :\nInput :\nA : [1 5 3]\nk : 2\n\n\nOutput :\n1\n\n\nas 3 - 1 = 2\n\nReturn 0 / 1 for this problem.\n\n'

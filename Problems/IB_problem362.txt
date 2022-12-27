@@ -1,0 +1,1 @@
+b'Given two integer array A and B, you have to pick one element from each array such that their xor is maximum.\nReturn this maximum xor value.\n'

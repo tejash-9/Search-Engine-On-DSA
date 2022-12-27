@@ -1,0 +1,1 @@
+b'Given an array of all positive integers and an element \xe2\x80\x9cx\xe2\x80\x9d. You need to find out whether all array elements can be made equal or not by performing any of the 3 operations: add x to any element in array, subtract x from any element from array, do nothing. This operation can be performed only once on an element of array.'

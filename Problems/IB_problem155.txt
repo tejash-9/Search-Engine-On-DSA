@@ -1,0 +1,1 @@
+b'Implement pow(x, n) % d.\nIn other words, given x, n and d,\nfind (xn % d)\nNote that remainders on division cannot be negative. In other words, make sure the answer you return is non negative.\n'

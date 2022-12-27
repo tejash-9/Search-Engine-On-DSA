@@ -1,0 +1,1 @@
+b'An integer interval [X, Y] (for integers X < Y) is a set of all consecutive integers from X to Y, including X and Y.\nYou are given a 2D array A with dimensions N x 2, where each row denotes an interval.\nFind the minimum size of a set S such that for every integer interval Z in A, the intersection of S with Z has a size of at least two.'

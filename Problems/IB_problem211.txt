@@ -1,0 +1,1 @@
+b'Given A and B you have to find all stepping numbers in range A to B.\nThe stepping number:\nA number is called as a stepping number if the adjacent digits have a difference of 1.\ne.g. 123 is stepping number, but 358 is not a stepping number'

@@ -1,0 +1,1 @@
+b'Due to pollution Delhi government has applied odd even rule in Delhi.Traffic police on guard is recording the registration number of vehicles passing through his area and storing the last digit of the number in an array A.You are given the array A and date of the day B. Also fine for breaking the rule is C Rs.Find the total fine in Rs collected by the traffic police.'

@@ -1,0 +1,1 @@
+b' Given an array A , representing seats in each row of a stadium. You need to sell tickets to B people.\nEach seat costs equal to the number of vacant seats in the row it belongs to. The task is to maximize the profit by selling the tickets to B people.\n\n\n'

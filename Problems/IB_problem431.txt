@@ -1,0 +1,1 @@
+b'Given a graph with A nodes.The edges in graph are given in a 2D array B.There is an undirected edge between B[i][0] and B[i][1].Find the number of connected components in the given graph.'

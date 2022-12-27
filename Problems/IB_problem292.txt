@@ -1,0 +1,1 @@
+b'Given a binary tree A with N nodes.\nYou have to remove all the half nodes and return the final binary tree.\nNOTE:\nHalf nodes are nodes which have only one child.\nLeaves should not be touched as they have both children as NULL.\n\n\n'

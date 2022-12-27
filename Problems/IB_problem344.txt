@@ -1,0 +1,1 @@
+b"Given an integer array A and two integers B and C.\nYou need to find the number of subarrays in which the number of occurrences of B is equal to number of occurrences of C.\nNOTE: Don't count empty subarrays.\n\n"

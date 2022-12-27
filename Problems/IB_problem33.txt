@@ -1,0 +1,1 @@
+b'Merge two sorted linked lists and return it as a new list. \nThe new list should be made by splicing together the nodes of the first two lists, and should also be sorted.\nFor example, given following linked lists :\n  5 -> 8 -> 20 \n  4 -> 11 -> 15\n\n\nThe merged list should be :\n4 -> 5 -> 8 -> 11 -> 15 -> 20\n\n\n'

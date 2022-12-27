@@ -1,0 +1,1 @@
+b'Given a list, rotate the list to the right by k places, where k is non-negative.\nFor example:\nGiven 1->2->3->4->5->NULL and k = 2,\nreturn 4->5->1->2->3->NULL.\n'

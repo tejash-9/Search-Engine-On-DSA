@@ -1,0 +1,1 @@
+b'Given two integers representing the numerator and denominator of a fraction, return the fraction in string format.\nIf the fractional part is repeating, enclose the repeating part in parentheses.\nExample :\nGiven numerator = 1, denominator = 2, return "0.5"\nGiven numerator = 2, denominator = 1, return "2"\nGiven numerator = 2, denominator = 3, return "0.(6)"\n\n\n'

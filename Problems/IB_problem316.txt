@@ -1,0 +1,1 @@
+b'Given a string A and integer B, remove all consecutive same characters that have length exactly B. '

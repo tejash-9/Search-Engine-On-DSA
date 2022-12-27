@@ -1,0 +1,1 @@
+b'Given a binary matrix A of size N x M.\n Cells which contain 1 are called filled cell and cell that contain 0 are called empty cell.\nTwo cells are said to be connected if they are adjacent to each other horizontally, vertically, or diagonally.\nIf one or more filled cells are also connected, they form a region. Find the length of the largest region.\n'

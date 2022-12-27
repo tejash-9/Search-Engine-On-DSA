@@ -1,0 +1,1 @@
+b'Given a 2D matrix, find the number non-empty sub matrices, such that the sum of the elements inside the sub matrix is equal to 0. (note:  elements might be negative).\nExample:\nInput\n-8 5  7\n3  7 -8\n5 -8  9\n\n\nOutput\n2\nExplanation\n-8 5 7\n3 7 -8\n5 -8 9\n-8 5 7\n3 7 -8\n5 -8 9\n'

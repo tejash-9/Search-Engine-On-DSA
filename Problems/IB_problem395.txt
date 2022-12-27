@@ -1,0 +1,1 @@
+b'You are given a array of strings A of length N.\nYou have to return another string array which contains all possible special strings.\nA special string is defined as a string with length equal to N, \nand ith character of the string is equal to any character of the ith string in the array A.'

@@ -1,0 +1,1 @@
+b'Given a binary tree, return the preorder traversal of its nodes\xe2\x80\x99 values.\nExample :\nGiven binary tree\n   1\n    \\\n     2\n    /\n   3\n\n\nreturn [1,2,3].\nUsing recursion is not allowed.\n'
