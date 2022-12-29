@@ -1,2 +1,3 @@
 # Search-Engine-On-DSA
- Web application to search DSA Problems
+• Developed a web-based search engine for DSA problems using technologies like
+HTML, CSS, Bootstrap, and Node.js
